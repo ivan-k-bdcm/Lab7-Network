@@ -3,6 +3,19 @@ import requests
 # Вітаємо користувача і виводимо список категорій
 print("Вітаємо! Оберіть категорію зі списку:")
 print("animal")
+print("career")
+print("celebrity")
+print("dev")
+print("eplicit")
+print("fashion")
+print("food")
+print("history")
+print("money")
+print("movie")
+print("music")
+print("political")
+print("religion")
+print("sport")
 
 # Отримуємо категорію від користувача
 category = input()
